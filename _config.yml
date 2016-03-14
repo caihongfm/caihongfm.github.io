@@ -2,7 +2,7 @@ url: https://batchstudios.github.io
 baseurl: /batchstudios.github.io/
 
 # Site settings
-title: Awesome Title
+title: Warwi3k, J3n, I1an
 email: your-email@domain.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
@@ -14,7 +14,7 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Warwi3k
   pic: 1
   position: Lead Designer
   social:
@@ -25,7 +25,7 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: J3n
   pic: 2
   position: Lead Marketer
   social:
@@ -36,7 +36,7 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: I1an
   pic: 3
   position: Lead Developer
   social:
